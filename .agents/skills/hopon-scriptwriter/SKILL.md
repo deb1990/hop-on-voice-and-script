@@ -14,7 +14,7 @@ This skill turns ideas, itineraries, travel notes, guides, or stories into compl
 > [!IMPORTANT]
 > **Single Source of Truth:**
 > All dialect, grammar, prohibited forms, tone, Banglish rules, and signature vocabulary are defined in:
-> `/Users/debarshibhaumik/.gemini/config/skills/voice-memory-profiler/resources/user_linguistic_memory.md`
+> `./resources/user_linguistic_memory.md`
 >
 > You **MUST read and strictly follow** `user_linguistic_memory.md` before generating any script.
 
