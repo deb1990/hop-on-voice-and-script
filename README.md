@@ -10,9 +10,8 @@ Tools, skills, and synthesis pipelines for Debarshi's **Hop On** travel document
 
 ### 2. `.agents/skills/` (Antigravity Auto-Discovery)
 - **`hopon-scriptwriter`**: Authentically crafts spoken voiceover scripts in Debarshi's signature Kolkata Banglish style (pure spoken narration text, zero visual/production tags).
-- **`voice-memory-profiler`**: Analyzes user-provided audio recordings, extracts comprehensive vocal delivery dynamics (pitch, tempo, pauses, emphasis, fillers, London Banglish syntax), and maintains a persistent Voice & Delivery Blueprint.
 
-> **Note**: Placed inside `.agents/skills/` so `agy` (Google Antigravity) automatically discovers and registers them when opening this repository.
+> **Note**: Placed inside `.agents/skills/` so `agy` (Google Antigravity) automatically discovers and registers it when opening this repository.
 
 ## Quickstart
 
